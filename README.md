@@ -7,27 +7,27 @@ market sentiment (Fear, Greed, Neutral, Extreme Fear, Extreme Greed).
 ## 📂 Project Structure
 ds_Rosalint_Celcia/
 ├── notebook_1.ipynb
-
+│
 ├── csv_files/
-
+│
 │    ├── trader_data_cleaned.csv
-
+│
 │    ├── sentiment_data_cleaned.csv
-
+│
 │    ├── trader_sentiment_merged.csv
-
+│
 ├── outputs/
-
+│
 │    ├── volume_trend.png
-
+│
 │    ├── pnl_vs_sentiment.png
-
+│
 │    ├── profitability_vs_sentiment.png
-
+│
 │    ├── correlation_heatmap.png
-
+│
 ├── ds_report.pdf
-
+│
 └── README.md
 
 ## 🚀 How to Run
